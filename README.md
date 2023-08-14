@@ -7,7 +7,7 @@
 
 하단의 페이지를 누르면 각각 Velog/Notion 블로그로 이동합니다
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiwonii97)](https://velog.io/@jiwonii97)<a href="https://www.notion.so/jiwonii97/7e174f5605124f5cb5c647cda2e12da1?pvs=4"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_23f1df4a48002425b3574347f0ea5676/notion.png" width=250px/></a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiwonii97)](https://velog.io/@jiwonii97)<a href="https://jiwonii97.notion.site/7e174f5605124f5cb5c647cda2e12da1?pvs=4"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_23f1df4a48002425b3574347f0ea5676/notion.png" width=250px/></a>
 
 <div align=center>
   
