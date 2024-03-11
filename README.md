@@ -2,10 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Jiwon's%20Github&fontSize=80)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiwonii97&count_bg=%23C8C8FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-<br/>  
-
-하단의 페이지를 누르면 각각 Velog/Notion 블로그로 이동합니다
+### 하단의 페이지를 누르면 각각 Velog/Notion 블로그로 이동합니다
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jiwonii97)](https://velog.io/@jiwonii97)<a href="https://jiwonii97.notion.site/7e174f5605124f5cb5c647cda2e12da1?pvs=4"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_23f1df4a48002425b3574347f0ea5676/notion.png" width=250px/></a>
 
